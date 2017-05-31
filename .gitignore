@@ -17,3 +17,5 @@
 /yarn-error.log
 
 .byebug_history
+#files not to be published
+/config/secrets.yml
